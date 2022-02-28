@@ -1,0 +1,351 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="396px" height="75px" viewBox="0 0 132 25">
+<defs>
+<symbol id="glyph10" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.081 2.422h5.853v7.953h-5.853v-7.953Zm5.306 7.406v-6.844h-4.744v6.844h4.744ZM2.359 7.438v-0.172l0.563-0.563l0.188 0.172l-0.313 0.313h0.938v-1.891h0.313v2.219h-1.25l0.313 0.313l-0.188 0.172l-0.563-0.563Z"/>
+</symbol>
+<symbol id="glyph32" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.081 2.422h5.853v7.953h-5.853v-7.953Zm5.306 7.406v-6.844h-4.744v6.844h4.744ZM1.891 9.063q-0.203 0,-0.422-0.047q-0.203-0.047,-0.406-0.141l0-0.422q0.219 0.141,0.422 0.219q0.203 0.063,0.406 0.063q0.297 0,0.469-0.125q0.156-0.141,0.156-0.391q0-0.203,-0.109-0.328q-0.063-0.063,-0.156-0.094q-0.094-0.047,-0.25-0.078l-0.203-0.047q-0.203-0.047,-0.359-0.109q-0.141-0.078,-0.234-0.172q-0.188-0.188,-0.188-0.5q0-0.391,0.266-0.625q0.125-0.109,0.297-0.172q0.188-0.063,0.406-0.063q0.172 0,0.359 0.031q0.078 0.031,0.172 0.063q0.109 0.016,0.219 0.063v0.391q-0.094-0.063,-0.188-0.094q-0.094-0.047,-0.172-0.078q-0.188-0.063,-0.375-0.063q-0.281 0,-0.438 0.141q-0.156 0.125,-0.156 0.359q0 0.094,0.016 0.172q0.031 0.063,0.078 0.109q0.125 0.109,0.406 0.172l0.203 0.047q0.406 0.094,0.594 0.297q0.188 0.203,0.188 0.563q0 0.219,-0.063 0.375q-0.063 0.156,-0.188 0.266q-0.25 0.219,-0.75 0.219Zm1.203-2.984l0.844 0q0.484 0,0.734 0.219q0.141 0.125,0.203 0.297q0.063 0.156,0.063 0.359q0 0.438,-0.25 0.656q-0.25 0.219,-0.75 0.219l-0.453 0v1.172h-0.391l0-2.922Zm0.844 1.422q0.141 0,0.25-0.031q0.109-0.047,0.172-0.109q0.156-0.141,0.156-0.406q0-0.266,-0.156-0.406q-0.141-0.141,-0.422-0.141l-0.453 0v1.094l0.453 0Z"/>
+</symbol>
+<symbol id="glyph67" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.625 10.141q-0.688 0,-1.234-0.234q-0.547-0.25,-0.938-0.75q-0.781-1,-0.781-2.797q0-1.188,0.344-2.031q0.359-0.844,1.016-1.297q0.672-0.453,1.594-0.453q0.469 0,0.844 0.094q0.391 0.094,0.766 0.313v1q-0.344-0.297,-0.766-0.453q-0.438-0.156,-0.844-0.156q-0.953 0,-1.438 0.75q-0.484 0.734,-0.484 2.234q0 2.984,1.922 2.984q0.422 0,0.844-0.156q0.422-0.156,0.766-0.453v1q-0.375 0.203,-0.766 0.313q-0.391 0.094,-0.844 0.094Z"/>
+</symbol>
+<symbol id="glyph79" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.016 10.141q-1.25 0,-1.844-0.938q-0.594-0.922,-0.594-2.844q0-1.922,0.594-2.844q0.609-0.938,1.844-0.938q0.594 0,1.047 0.234q0.469 0.219,0.781 0.703q0.609 0.938,0.609 2.844q0 1.906,-0.609 2.844q-0.313 0.484,-0.781 0.719q-0.453 0.219,-1.047 0.219Zm0-0.797q0.75 0,1.078-0.688q0.328-0.672,0.328-2.297q0-1.625,-0.328-2.297q-0.328-0.688,-1.078-0.688q-0.75 0,-1.078 0.688q-0.328 0.703,-0.328 2.297q0 1.594,0.328 2.297q0.328 0.688,1.078 0.688Z"/>
+</symbol>
+<symbol id="glyph83" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.859 10.141q-0.531 0,-1.047-0.109q-0.516-0.109,-1.047-0.328v-1.047q0.563 0.344,1.078 0.516q0.484 0.172,1 0.172q0.734 0,1.156-0.328q0.422-0.344,0.422-0.969q0-0.516,-0.281-0.813q-0.156-0.156,-0.406-0.25q-0.234-0.109,-0.594-0.188l-0.531-0.125q-0.484-0.109,-0.859-0.281q-0.375-0.172,-0.609-0.422q-0.469-0.453,-0.469-1.234q0-1,0.672-1.578q0.313-0.281,0.75-0.422q0.438-0.156,0.984-0.156q0.422 0,0.891 0.094q0.219 0.047,0.469 0.125q0.25 0.063,0.5 0.156v1q-0.234-0.141,-0.453-0.25q-0.219-0.109,-0.438-0.172q-0.453-0.156,-0.906-0.156q-0.703 0,-1.109 0.328q-0.406 0.328,-0.406 0.906q0 0.25,0.063 0.422q0.078 0.156,0.203 0.281q0.281 0.266,0.984 0.422l0.531 0.125q1 0.234,1.484 0.75q0.469 0.5,0.469 1.391q0 0.547,-0.172 0.953q-0.172 0.391,-0.469 0.641q-0.641 0.547,-1.859 0.547Z"/>
+</symbol>
+<symbol id="glyph86" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.281 2.703h1.016l1.719 6.469l1.703-6.469h1.031l-2.141 7.297h-1.203l-2.125-7.297Z"/>
+</symbol>
+<symbol id="glyph97" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.484 10.141q-0.797 0,-1.313-0.453q-0.5-0.453,-0.5-1.313q0-0.703,0.328-1.094q0.344-0.406,0.891-0.563q0.563-0.172,1.188-0.172h1.203v-0.141q0-0.703,-0.359-0.969q-0.344-0.281,-0.984-0.281q-0.5 0,-0.984 0.141q-0.469 0.141,-0.891 0.375v-0.891q0.453-0.172,0.906-0.266q0.469-0.109,0.938-0.109q0.5 0,0.953 0.141q0.469 0.125,0.797 0.438q0.344 0.297,0.453 0.813q0.078 0.359,0.078 1.078v1.125q0 0.453,0.047 1.016q0.047 0.547,0.234 0.984h-0.891q-0.094-0.188,-0.141-0.406q-0.047-0.219,-0.078-0.422q-0.281 0.484,-0.797 0.734q-0.516 0.234,-1.078 0.234Zm0.219-0.75q0.563 0,0.906-0.266q0.344-0.281,0.5-0.719q0.172-0.453,0.172-0.953v-0.203h-1.141q-0.375 0,-0.75 0.094q-0.359 0.078,-0.594 0.328q-0.234 0.234,-0.234 0.688q0 0.516,0.313 0.781q0.328 0.25,0.828 0.25Z"/>
+</symbol>
+<symbol id="glyph98" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.344 10.141q-1.031 0,-1.5-0.828l-0.094 0.688h-0.813v-7.594h0.906v2.828q0.219-0.438,0.609-0.625q0.406-0.203,0.891-0.203q0.594 0,0.984 0.25q0.406 0.25,0.641 0.672q0.25 0.406,0.359 0.922q0.109 0.5,0.109 1.016q0 0.5,-0.109 1.016q-0.109 0.516,-0.359 0.938q-0.234 0.422,-0.641 0.672q-0.391 0.25,-0.984 0.25Zm-0.172-0.766q0.422 0,0.672-0.188q0.266-0.203,0.406-0.531q0.141-0.328,0.188-0.688q0.047-0.359,0.047-0.703q0-0.328,-0.047-0.688q-0.047-0.375,-0.188-0.688q-0.141-0.328,-0.406-0.531q-0.25-0.203,-0.672-0.203q-0.438 0,-0.703 0.203q-0.25 0.203,-0.391 0.531q-0.141 0.313,-0.188 0.688q-0.047 0.359,-0.047 0.688q0 0.344,0.047 0.719q0.047 0.359,0.188 0.688q0.141 0.313,0.391 0.516q0.266 0.188,0.703 0.188Z"/>
+</symbol>
+<symbol id="glyph99" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.438 10.141q-0.859 0,-1.453-0.359q-0.578-0.375,-0.891-1.016q-0.297-0.656,-0.297-1.5q0-0.844,0.297-1.484q0.313-0.656,0.906-1.016q0.594-0.359,1.469-0.359q0.453 0,0.813 0.109q0.375 0.094,0.75 0.297v0.953q-0.344-0.313,-0.703-0.453q-0.344-0.156,-0.781-0.156q-0.672 0,-1.063 0.297q-0.391 0.281,-0.563 0.766q-0.172 0.469,-0.172 1.047q0 0.578,0.172 1.063q0.172 0.484,0.563 0.766q0.391 0.281,1.047 0.281q0.438 0,0.797-0.141q0.375-0.141,0.703-0.453v0.938q-0.703 0.422,-1.594 0.422Z"/>
+</symbol>
+<symbol id="glyph100" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.703 10.141q-0.594 0,-1-0.25q-0.406-0.25,-0.656-0.672q-0.234-0.438,-0.344-0.953q-0.109-0.516,-0.109-1.031q0-1.313,0.578-2.063q0.578-0.766,1.547-0.766q0.484 0,0.859 0.203q0.391 0.188,0.609 0.625v-2.828h0.906v7.594h-0.813l-0.094-0.688q-0.484 0.828,-1.484 0.828Zm0.156-0.766q0.438 0,0.688-0.188q0.266-0.203,0.406-0.516q0.141-0.328,0.188-0.688q0.047-0.375,0.047-0.719q0-0.328,-0.047-0.688q-0.047-0.375,-0.188-0.688q-0.141-0.328,-0.406-0.531q-0.25-0.203,-0.688-0.203q-0.422 0,-0.688 0.203q-0.25 0.203,-0.391 0.531q-0.141 0.313,-0.188 0.688q-0.047 0.359,-0.047 0.688q0 0.328,0.047 0.703q0.047 0.359,0.188 0.688q0.141 0.313,0.391 0.516q0.266 0.203,0.688 0.203Z"/>
+</symbol>
+<symbol id="glyph101" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.313 10.141q-1.266 0,-1.984-0.75q-0.719-0.766,-0.719-2.078q0-0.813,0.281-1.469q0.281-0.672,0.844-1.047q0.578-0.391,1.406-0.391q1.094 0,1.688 0.703q0.609 0.688,0.609 1.938v0.438h-3.891v0.031q0 0.844,0.438 1.359q0.453 0.5,1.344 0.5q0.5 0,0.969-0.156q0.484-0.156,0.922-0.391v0.891q-0.453 0.188,-0.938 0.297q-0.469 0.125,-0.969 0.125Zm1.219-3.359q0-0.453,-0.141-0.813q-0.125-0.375,-0.438-0.594q-0.297-0.219,-0.781-0.219q-0.5 0,-0.844 0.219q-0.328 0.219,-0.516 0.594q-0.188 0.359,-0.234 0.813h2.953Z"/>
+</symbol>
+<symbol id="glyph102" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.281 5.234h-1.469v-0.703h1.469v-0.375q0-0.906,0.406-1.328q0.406-0.422,1.281-0.422h1.078v0.75h-1.016q-0.469 0,-0.672 0.203q-0.188 0.188,-0.188 0.688v0.484h1.875v0.703h-1.875v4.766h-0.891v-4.766Z"/>
+</symbol>
+<symbol id="glyph104" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.953 2.406h0.891v2.938q0.5-0.938,1.625-0.938q0.672 0,1.031 0.313q0.359 0.313,0.484 0.813q0.141 0.5,0.141 1.078v3.391h-0.891v-3.391q0-0.734,-0.266-1.078q-0.25-0.344,-0.797-0.344q-0.516 0,-0.813 0.25q-0.281 0.25,-0.406 0.641q-0.109 0.391,-0.109 0.828v3.094h-0.891v-7.594Z"/>
+</symbol>
+<symbol id="glyph108" viewBox="0 0 6 13" width="6" height="13">
+<path d="M4.016 10.047q-0.813 0,-1.266-0.516q-0.438-0.531,-0.438-1.469v-4.953h-1.438v-0.703h2.344v5.656q0 0.594,0.219 0.906q0.234 0.313,0.656 0.313h1.047v0.766h-1.125Z"/>
+</symbol>
+<symbol id="glyph110" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.953 4.531h0.813l0.078 0.813q0.5-0.938,1.609-0.938q1.672 0,1.672 2.203v3.391h-0.891v-3.391q0-0.734,-0.266-1.078q-0.25-0.344,-0.797-0.344q-0.625 0,-0.984 0.453q-0.344 0.438,-0.344 1.266v3.094h-0.891v-5.469Z"/>
+</symbol>
+<symbol id="glyph111" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.016 10.141q-1.141 0,-1.75-0.734q-0.594-0.75,-0.594-2.125q0-1.391,0.594-2.125q0.609-0.75,1.75-0.75q1.125 0,1.734 0.734q0.609 0.734,0.609 2.141q0 1.391,-0.609 2.125q-0.594 0.734,-1.734 0.734Zm0-0.766q0.672 0,1.031-0.547q0.359-0.547,0.359-1.563q0-1.016,-0.359-1.563q-0.359-0.547,-1.031-0.547q-0.672 0,-1.031 0.547q-0.359 0.547,-0.359 1.563q0 1.016,0.359 1.563q0.359 0.547,1.031 0.547Z"/>
+</symbol>
+<symbol id="glyph112" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.922 4.531h0.828l0.078 0.703q0.469-0.828,1.469-0.828q0.984 0,1.547 0.766q0.563 0.766,0.563 2.094q0 1.328,-0.578 2.109q-0.563 0.766,-1.531 0.766q-1.016 0,-1.469-0.828v2.766h-0.906v-7.547Zm2.266 4.844q1.281 0,1.281-2.109q0-2.109,-1.281-2.109q-0.656 0,-1.016 0.547q-0.344 0.547,-0.344 1.563q0 1.016,0.344 1.563q0.359 0.547,1.016 0.547Z"/>
+</symbol>
+<symbol id="glyph114" viewBox="0 0 6 13" width="6" height="13">
+<path d="M1.469 4.531h0.828l0.078 1.063q0.234-0.578,0.688-0.875q0.469-0.313,1.109-0.313q0.672 0,1.172 0.328v0.922q-0.531-0.422,-1.25-0.422q-0.828 0,-1.281 0.531q-0.438 0.516,-0.438 1.516v2.719h-0.906v-5.469Z"/>
+</symbol>
+<symbol id="glyph115" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.875 10.141q-0.781 0,-1.828-0.344v-0.922q1.016 0.516,1.813 0.516q0.578 0,0.922-0.234q0.344-0.25,0.344-0.641q0-0.359,-0.297-0.563q-0.281-0.219,-0.906-0.344l-0.375-0.078q-0.766-0.156,-1.125-0.516q-0.359-0.359,-0.359-0.984q0-0.781,0.531-1.203q0.547-0.422,1.531-0.422q0.844 0,1.625 0.313v0.875q-0.766-0.438,-1.594-0.438q-1.188 0,-1.188 0.797q0 0.266,0.094 0.422q0.109 0.156,0.391 0.266q0.297 0.094,0.859 0.203l0.359 0.078q1.359 0.266,1.359 1.469q0 0.813,-0.578 1.281q-0.578 0.469,-1.578 0.469Z"/>
+</symbol>
+<symbol id="glyph116" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.938 10.016q-1 0,-1.422-0.406q-0.422-0.406,-0.422-1.391v-2.984h-1.453v-0.703h1.453v-1.438l0.906-0.391v1.828h2.047v0.703h-2.047v2.984q0 0.594,0.219 0.844q0.234 0.234,0.813 0.234h1.016v0.719h-1.109Z"/>
+</symbol>
+<symbol id="glyph119" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0 4.531h0.891l0.953 4.422l0.781-2.828h0.766l0.797 2.828l0.938-4.422h0.891l-1.281 5.469h-0.859l-0.859-3l-0.875 3h-0.859l-1.281-5.469Z"/>
+</symbol>
+</defs>
+<rect x="0" y="0" width="132" height="25" fill="white"/>
+<g opacity="0">
+<animate attributeName="opacity" id="line0" begin="500ms;line3.end" values="1;1;0" dur="6030ms" keyTimes="0;0.834;1"/>
+<animateTransform attributeName="transform" begin="line0.begin" type="translate" values="0 0;0 0;0 -13" dur="6030ms" keyTimes="0;0.834;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line0.begin" type="translate" values="0 0;0 0;0.667 1;0 0;0 0;-0.333 0.8;0 0;0 0;-0.333 1;0 0;0 0;0.333 1;0 0;0 0;-0.333 0.6;0 0;0 0;0 1.2;0 0;0 0;-0.667 1.2;0 0;0 0;0 1;0 0;0 0;-0.667 1.2;0 0;0 0;-0.667 1;0 0;0 0;0.667 1.2;0 0;0 0;-0.333 0.6;0 0;0 0;-1.2 1.4;0 0;0 0" dur="6030ms" keyTimes="0;0;0;0.017;0.048;0.048;0.065;0.088;0.088;0.104;0.139;0.139;0.156;0.222;0.222;0.239;0.328;0.328;0.345;0.363;0.363;0.38;0.403;0.403;0.42;0.466;0.466;0.483;0.519;0.519;0.536;0.575;0.575;0.592;0.637;0.637;0.653;0.751;0.751;0.768;1"/>
+<use href="#glyph79" x="6" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0;0;0.166;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0;0;0.166;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0;0;0.166;1"/>
+</use>
+<use href="#glyph112" x="12" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.048;0.048;0.214;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.048;0.048;0.214;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.048;0.048;0.214;1"/>
+</use>
+<use href="#glyph101" x="18" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.088;0.088;0.254;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.088;0.088;0.254;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.088;0.088;0.254;1"/>
+</use>
+<use href="#glyph110" x="24" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.139;0.139;0.305;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.139;0.139;0.305;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.139;0.139;0.305;1"/>
+</use>
+<use href="#glyph32" x="30" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.222;0.222;0.388;1"/>
+<animate attributeName="opacity" begin="line0.begin" values="0;0;1;0;0" dur="6030ms" keyTimes="0;0.222;0.222;0.388;1"/>
+</use>
+<use href="#glyph98" x="36" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.328;0.328;0.494;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.328;0.328;0.494;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.328;0.328;0.494;1"/>
+</use>
+<use href="#glyph114" x="42" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.363;0.363;0.529;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.363;0.363;0.529;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.363;0.363;0.529;1"/>
+</use>
+<use href="#glyph111" x="48" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.403;0.403;0.569;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.403;0.403;0.569;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.403;0.403;0.569;1"/>
+</use>
+<use href="#glyph119" x="54" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.466;0.466;0.632;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.466;0.466;0.632;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.466;0.466;0.632;1"/>
+</use>
+<use href="#glyph115" x="60" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.519;0.519;0.685;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.519;0.519;0.685;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.519;0.519;0.685;1"/>
+</use>
+<use href="#glyph101" x="66" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.575;0.575;0.741;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.575;0.575;0.741;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.575;0.575;0.741;1"/>
+</use>
+<use href="#glyph114" x="72" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.637;0.637;0.803;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.637;0.637;0.803;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="6030ms" keyTimes="0;0.637;0.637;0.803;1"/>
+</use>
+<use href="#glyph10" x="78" y="6" fill="black">
+<animate attributeName="fill" begin="line0.begin" values="white;white;red;black;black" dur="6030ms" keyTimes="0;0.751;0.751;0.917;1"/>
+<animate attributeName="opacity" begin="line0.begin" values="0;0;1;0;0" dur="6030ms" keyTimes="0;0.751;0.751;0.917;1"/>
+</use>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" id="line1" begin="line0.end" values="1;1;0" dur="8820ms" keyTimes="0;0.887;1"/>
+<animateTransform attributeName="transform" begin="line1.begin" type="translate" values="0 0;0 0;0 -13" dur="8820ms" keyTimes="0;0.887;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line1.begin" type="translate" values="0 0;0 0;0 1.2;0 0;0 0;-0.667 0.8;0 0;0 0;0 0.6;0 0;0 0;0.333 1;0 0;0 0;-0.333 0.8;0 0;0 0;0.333 0.8;0 0;0 0;0 1.2;0 0;0 0;0.333 0.8;0 0;0 0;0.667 1.2;0 0;0 0;0 0.6;0 0;0 0;-0.667 1;0 0;0 0;0 0.6;0 0;0 0;0 0.8;0 0;0 0;0.333 0.6;0 0;0 0;0.333 0.8;0 0;0 0;0 1;0 0;0 0;0 1.2;0 0;0 0;0 0.8;0 0;0 0;0 1.2;0 0;0 0;-1.2 1.4;0 0;0 0" dur="8820ms" keyTimes="0;0;0;0.011;0.034;0.034;0.045;0.068;0.068;0.079;0.091;0.091;0.102;0.115;0.115;0.126;0.142;0.142;0.153;0.206;0.206;0.218;0.271;0.271;0.282;0.297;0.297;0.308;0.339;0.339;0.35;0.406;0.406;0.417;0.464;0.464;0.475;0.507;0.507;0.518;0.539;0.539;0.55;0.602;0.602;0.613;0.671;0.671;0.683;0.694;0.694;0.705;0.732;0.732;0.744;0.759;0.759;0.77;0.83;0.83;0.841;1"/>
+<use href="#glyph83" x="6" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0;0;0.113;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0;0;0.113;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0;0;0.113;1"/>
+</use>
+<use href="#glyph101" x="12" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.034;0.034;0.147;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.034;0.034;0.147;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.034;0.034;0.147;1"/>
+</use>
+<use href="#glyph97" x="18" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.068;0.068;0.181;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.068;0.068;0.181;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.068;0.068;0.181;1"/>
+</use>
+<use href="#glyph114" x="24" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.091;0.091;0.204;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.091;0.091;0.204;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.091;0.091;0.204;1"/>
+</use>
+<use href="#glyph99" x="30" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.115;0.115;0.228;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.115;0.115;0.228;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.115;0.115;0.228;1"/>
+</use>
+<use href="#glyph104" x="36" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.142;0.142;0.255;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.142;0.142;0.255;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.142;0.142;0.255;1"/>
+</use>
+<use href="#glyph32" x="42" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.206;0.206;0.32;1"/>
+<animate attributeName="opacity" begin="line1.begin" values="0;0;1;0;0" dur="8820ms" keyTimes="0;0.206;0.206;0.32;1"/>
+</use>
+<use href="#glyph102" x="48" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.271;0.271;0.384;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.271;0.271;0.384;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.271;0.271;0.384;1"/>
+</use>
+<use href="#glyph111" x="54" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.297;0.297;0.41;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.297;0.297;0.41;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.297;0.297;0.41;1"/>
+</use>
+<use href="#glyph114" x="60" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.339;0.339;0.452;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.339;0.339;0.452;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.339;0.339;0.452;1"/>
+</use>
+<use href="#glyph32" x="66" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.406;0.406;0.519;1"/>
+<animate attributeName="opacity" begin="line1.begin" values="0;0;1;0;0" dur="8820ms" keyTimes="0;0.406;0.406;0.519;1"/>
+</use>
+<use href="#glyph116" x="72" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.464;0.464;0.577;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.464;0.464;0.577;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.464;0.464;0.577;1"/>
+</use>
+<use href="#glyph104" x="78" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.507;0.507;0.62;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.507;0.507;0.62;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.507;0.507;0.62;1"/>
+</use>
+<use href="#glyph101" x="84" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.539;0.539;0.652;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.539;0.539;0.652;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.539;0.539;0.652;1"/>
+</use>
+<use href="#glyph32" x="90" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.602;0.602;0.715;1"/>
+<animate attributeName="opacity" begin="line1.begin" values="0;0;1;0;0" dur="8820ms" keyTimes="0;0.602;0.602;0.715;1"/>
+</use>
+<use href="#glyph99" x="96" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.671;0.671;0.785;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.671;0.671;0.785;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.671;0.671;0.785;1"/>
+</use>
+<use href="#glyph111" x="102" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.694;0.694;0.807;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.694;0.694;0.807;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.694;0.694;0.807;1"/>
+</use>
+<use href="#glyph100" x="108" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.732;0.732;0.846;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.732;0.732;0.846;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.732;0.732;0.846;1"/>
+</use>
+<use href="#glyph101" x="114" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.759;0.759;0.872;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.759;0.759;0.872;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="8820ms" keyTimes="0;0.759;0.759;0.872;1"/>
+</use>
+<use href="#glyph10" x="120" y="6" fill="black">
+<animate attributeName="fill" begin="line1.begin" values="white;white;red;black;black" dur="8820ms" keyTimes="0;0.83;0.83;0.943;1"/>
+<animate attributeName="opacity" begin="line1.begin" values="0;0;1;0;0" dur="8820ms" keyTimes="0;0.83;0.83;0.943;1"/>
+</use>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" id="line2" begin="line1.end" values="1;1;0" dur="5010ms" keyTimes="0;0.8;1"/>
+<animateTransform attributeName="transform" begin="line2.begin" type="translate" values="0 0;0 0;0 -13" dur="5010ms" keyTimes="0;0.8;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line2.begin" type="translate" values="0 0;0 0;0.333 0.6;0 0;0 0;0.333 0.6;0 0;0 0;0 0.6;0 0;0 0;0 1.2;0 0;0 0;0 0.8;0 0;0 0;0.333 0.6;0 0;0 0;-0.333 0.6;0 0;0 0;0.667 1;0 0;0 0;-0.333 1;0 0;0 0;-1.2 1.4;0 0;0 0" dur="5010ms" keyTimes="0;0;0;0.02;0.052;0.052;0.072;0.104;0.104;0.124;0.174;0.174;0.194;0.22;0.22;0.24;0.297;0.297;0.317;0.351;0.351;0.371;0.455;0.455;0.475;0.577;0.577;0.597;0.701;0.701;0.721;1"/>
+<use href="#glyph67" x="6" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0;0;0.2;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0;0;0.2;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0;0;0.2;1"/>
+</use>
+<use href="#glyph111" x="12" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.052;0.052;0.251;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.052;0.052;0.251;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0.052;0.052;0.251;1"/>
+</use>
+<use href="#glyph110" x="18" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.104;0.104;0.303;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.104;0.104;0.303;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0.104;0.104;0.303;1"/>
+</use>
+<use href="#glyph116" x="24" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.174;0.174;0.373;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.174;0.174;0.373;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0.174;0.174;0.373;1"/>
+</use>
+<use href="#glyph114" x="30" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.22;0.22;0.419;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.22;0.22;0.419;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0.22;0.22;0.419;1"/>
+</use>
+<use href="#glyph111" x="36" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.297;0.297;0.497;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.297;0.297;0.497;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0.297;0.297;0.497;1"/>
+</use>
+<use href="#glyph108" x="42" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.351;0.351;0.551;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.351;0.351;0.551;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0.351;0.351;0.551;1"/>
+</use>
+<use href="#glyph32" x="48" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.455;0.455;0.655;1"/>
+<animate attributeName="opacity" begin="line2.begin" values="0;0;1;0;0" dur="5010ms" keyTimes="0;0.455;0.455;0.655;1"/>
+</use>
+<use href="#glyph67" x="54" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.577;0.577;0.776;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.577;0.577;0.776;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="5010ms" keyTimes="0;0.577;0.577;0.776;1"/>
+</use>
+<use href="#glyph10" x="60" y="6" fill="black">
+<animate attributeName="fill" begin="line2.begin" values="white;white;red;black;black" dur="5010ms" keyTimes="0;0.701;0.701;0.9;1"/>
+<animate attributeName="opacity" begin="line2.begin" values="0;0;1;0;0" dur="5010ms" keyTimes="0;0.701;0.701;0.9;1"/>
+</use>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" id="line3" begin="line2.end" values="1;1;0" dur="5030ms" keyTimes="0;0.801;1"/>
+<animateTransform attributeName="transform" begin="line3.begin" type="translate" values="0 0;0 0;0 -13" dur="5030ms" keyTimes="0;0.801;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line3.begin" type="translate" values="0 0;0 0;0.667 1;0 0;0 0;-0.667 1;0 0;0 0;-0.333 0.8;0 0;0 0;0.333 0.6;0 0;0 0;0.333 1;0 0;0 0;0.667 1;0 0;0 0;-0.333 1.2;0 0;0 0;0 1;0 0;0 0;-0.333 1.2;0 0;0 0;-1.2 1.4;0 0;0 0" dur="5030ms" keyTimes="0;0;0;0.02;0.05;0.05;0.07;0.091;0.091;0.111;0.153;0.153;0.173;0.201;0.201;0.221;0.26;0.26;0.28;0.324;0.324;0.344;0.449;0.449;0.469;0.588;0.588;0.608;0.702;0.702;0.722;1"/>
+<use href="#glyph67" x="6" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0;0;0.199;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0;0;0.199;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0;0;0.199;1"/>
+</use>
+<use href="#glyph111" x="12" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.05;0.05;0.249;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.05;0.05;0.249;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0.05;0.05;0.249;1"/>
+</use>
+<use href="#glyph110" x="18" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.091;0.091;0.29;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.091;0.091;0.29;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0.091;0.091;0.29;1"/>
+</use>
+<use href="#glyph116" x="24" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.153;0.153;0.352;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.153;0.153;0.352;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0.153;0.153;0.352;1"/>
+</use>
+<use href="#glyph114" x="30" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.201;0.201;0.4;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.201;0.201;0.4;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0.201;0.201;0.4;1"/>
+</use>
+<use href="#glyph111" x="36" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.26;0.26;0.459;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.26;0.26;0.459;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0.26;0.26;0.459;1"/>
+</use>
+<use href="#glyph108" x="42" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.324;0.324;0.523;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.324;0.324;0.523;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0.324;0.324;0.523;1"/>
+</use>
+<use href="#glyph32" x="48" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.449;0.449;0.648;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="5030ms" keyTimes="0;0.449;0.449;0.648;1"/>
+</use>
+<use href="#glyph86" x="54" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.588;0.588;0.787;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.588;0.588;0.787;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="5030ms" keyTimes="0;0.588;0.588;0.787;1"/>
+</use>
+<use href="#glyph10" x="60" y="6" fill="black">
+<animate attributeName="fill" begin="line3.begin" values="white;white;red;black;black" dur="5030ms" keyTimes="0;0.702;0.702;0.901;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="5030ms" keyTimes="0;0.702;0.702;0.901;1"/>
+</use>
+</g>
+</g>
+</svg>

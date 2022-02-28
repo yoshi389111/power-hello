@@ -1,0 +1,611 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="612px" height="75px" viewBox="0 0 204 25">
+<defs>
+<symbol id="glyph10" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.081 2.422h5.853v7.953h-5.853v-7.953Zm5.306 7.406v-6.844h-4.744v6.844h4.744ZM2.359 7.438v-0.172l0.563-0.563l0.188 0.172l-0.313 0.313h0.938v-1.891h0.313v2.219h-1.25l0.313 0.313l-0.188 0.172l-0.563-0.563Z"/>
+</symbol>
+<symbol id="glyph32" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.081 2.422h5.853v7.953h-5.853v-7.953Zm5.306 7.406v-6.844h-4.744v6.844h4.744ZM1.891 9.063q-0.203 0,-0.422-0.047q-0.203-0.047,-0.406-0.141l0-0.422q0.219 0.141,0.422 0.219q0.203 0.063,0.406 0.063q0.297 0,0.469-0.125q0.156-0.141,0.156-0.391q0-0.203,-0.109-0.328q-0.063-0.063,-0.156-0.094q-0.094-0.047,-0.25-0.078l-0.203-0.047q-0.203-0.047,-0.359-0.109q-0.141-0.078,-0.234-0.172q-0.188-0.188,-0.188-0.5q0-0.391,0.266-0.625q0.125-0.109,0.297-0.172q0.188-0.063,0.406-0.063q0.172 0,0.359 0.031q0.078 0.031,0.172 0.063q0.109 0.016,0.219 0.063v0.391q-0.094-0.063,-0.188-0.094q-0.094-0.047,-0.172-0.078q-0.188-0.063,-0.375-0.063q-0.281 0,-0.438 0.141q-0.156 0.125,-0.156 0.359q0 0.094,0.016 0.172q0.031 0.063,0.078 0.109q0.125 0.109,0.406 0.172l0.203 0.047q0.406 0.094,0.594 0.297q0.188 0.203,0.188 0.563q0 0.219,-0.063 0.375q-0.063 0.156,-0.188 0.266q-0.25 0.219,-0.75 0.219Zm1.203-2.984l0.844 0q0.484 0,0.734 0.219q0.141 0.125,0.203 0.297q0.063 0.156,0.063 0.359q0 0.438,-0.25 0.656q-0.25 0.219,-0.75 0.219l-0.453 0v1.172h-0.391l0-2.922Zm0.844 1.422q0.141 0,0.25-0.031q0.109-0.047,0.172-0.109q0.156-0.141,0.156-0.406q0-0.266,-0.156-0.406q-0.141-0.141,-0.422-0.141l-0.453 0v1.094l0.453 0Z"/>
+</symbol>
+<symbol id="glyph38" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.703 10.141q-0.531 0,-0.969-0.172q-0.438-0.172,-0.766-0.484q-0.313-0.297,-0.5-0.703q-0.188-0.422,-0.188-0.922q0-0.328,0.078-0.656q0.078-0.328,0.25-0.609q0.344-0.563,1.016-1.063q-0.25-0.359,-0.359-0.688q-0.109-0.344,-0.109-0.688q0-0.391,0.125-0.672q0.125-0.281,0.359-0.484q0.484-0.422,1.328-0.422q0.313 0,0.641 0.063q0.266 0.047,0.656 0.172v0.891q-0.281-0.203,-0.594-0.281q-0.297-0.094,-0.625-0.094q-0.484 0,-0.766 0.219q-0.266 0.219,-0.266 0.609q0 0.266,0.141 0.594q0.063 0.141,0.188 0.344q0.125 0.203,0.328 0.484l2.031 2.719q0.188-0.25,0.281-0.609q0.094-0.359,0.094-0.844q0-0.094,0-0.219q0-0.125,-0.016-0.297v-0.047h0.797v0.203q0 0.797,-0.188 1.375q-0.172 0.594,-0.547 1.016l0.844 1.125h-1.047l-0.375-0.531q-0.203 0.172,-0.422 0.297q-0.203 0.125,-0.453 0.203q-0.203 0.078,-0.453 0.125q-0.25 0.047,-0.516 0.047Zm0.156-0.75q0.219 0,0.438-0.063q0.266-0.063,0.438-0.172q0.125-0.063,0.219-0.125q0.109-0.063,0.109-0.078q0.016-0.016,0.063-0.047l-2.094-2.828q-0.453 0.375,-0.672 0.75q-0.219 0.406,-0.219 0.859q0 0.734,0.484 1.219q0.219 0.219,0.531 0.359q0.328 0.125,0.703 0.125Z"/>
+</symbol>
+<symbol id="glyph39" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.578 2.703h0.844v2.719h-0.844v-2.719Z"/>
+</symbol>
+<symbol id="glyph40" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.906 11.313q-0.75-1.188,-1.094-2.266q-0.359-1.109,-0.359-2.188q0-1.063,0.359-2.188q0.188-0.563,0.453-1.109q0.266-0.563,0.641-1.156h0.781q-0.344 0.594,-0.578 1.141q-0.234 0.531,-0.391 1.078q-0.328 1.125,-0.328 2.234q0 2.219,1.297 4.453h-0.781Z"/>
+</symbol>
+<symbol id="glyph41" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.328 11.313q0.641-1.109,0.984-2.234q0.141-0.531,0.219-1.078q0.094-0.563,0.094-1.141q0-1.125,-0.313-2.219q-0.156-0.531,-0.406-1.078q-0.234-0.563,-0.578-1.156h0.781q0.75 1.156,1.109 2.266q0.359 1.125,0.359 2.188q0 1.078,-0.359 2.203q-0.359 1.109,-1.109 2.25h-0.781Z"/>
+</symbol>
+<symbol id="glyph45" viewBox="0 0 6 13" width="6" height="13">
+<path d="M1 6.672h4.016v0.797h-4.016v-0.797Z"/>
+</symbol>
+<symbol id="glyph46" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3 10.125q-0.344 0,-0.578-0.219q-0.219-0.234,-0.219-0.594q0-0.375,0.219-0.594q0.234-0.234,0.578-0.234q0.328 0,0.547 0.234q0.234 0.219,0.234 0.594q0 0.359,-0.234 0.594q-0.219 0.219,-0.547 0.219Z"/>
+</symbol>
+<symbol id="glyph48" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.016 10.141q-1.172 0,-1.766-0.953q-0.594-0.969,-0.594-2.828q0-1.859,0.594-2.828q0.594-0.953,1.766-0.953q1.172 0,1.766 0.953q0.281 0.469,0.438 1.172q0.156 0.703,0.156 1.656q0 0.953,-0.156 1.656q-0.156 0.703,-0.438 1.172q-0.609 0.953,-1.766 0.953Zm0-0.781q0.688 0,1.031-0.734q0.328-0.75,0.328-2.266q0-1.516,-0.328-2.25q-0.344-0.75,-1.031-0.75q-0.703 0,-1.031 0.734q-0.172 0.375,-0.266 0.938q-0.078 0.547,-0.078 1.328q0 1.531,0.344 2.266q0.344 0.734,1.031 0.734Zm0-1.297q-0.156 0,-0.25-0.203q-0.078-0.219,-0.141-0.5q-0.047-0.219,-0.078-0.531q-0.031-0.328,-0.031-0.484q0-0.125,0.016-0.422q0.031-0.313,0.094-0.578q0.141-0.703,0.375-0.703q0.141 0,0.234 0.188q0.094 0.188,0.156 0.531q0.047 0.25,0.078 0.547q0.031 0.297,0.031 0.469q0 0.094,-0.016 0.391q-0.016 0.281,-0.063 0.594q-0.125 0.703,-0.406 0.703Z"/>
+</symbol>
+<symbol id="glyph49" viewBox="0 0 6 13" width="6" height="13">
+<path d="M1.313 9.172h1.547v-5.234l-1.172 1.328l-0.531-0.656l1.688-1.906h0.984v6.469h1.516v0.828h-4.031v-0.828Z"/>
+</symbol>
+<symbol id="glyph61" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.438 5.453h5.156v0.828h-5.156v-0.828Zm0 1.984h5.156v0.844h-5.156v-0.844Z"/>
+</symbol>
+<symbol id="glyph65" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.406 2.703h1.203l2.234 7.297h-1.031l-0.531-1.906h-2.547l-0.531 1.906h-1.016l2.219-7.297Zm1.641 4.609l-1.031-3.734l-1.047 3.734h2.078Z"/>
+</symbol>
+<symbol id="glyph67" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.625 10.141q-0.688 0,-1.234-0.234q-0.547-0.25,-0.938-0.75q-0.781-1,-0.781-2.797q0-1.188,0.344-2.031q0.359-0.844,1.016-1.297q0.672-0.453,1.594-0.453q0.469 0,0.844 0.094q0.391 0.094,0.766 0.313v1q-0.344-0.297,-0.766-0.453q-0.438-0.156,-0.844-0.156q-0.953 0,-1.438 0.75q-0.484 0.734,-0.484 2.234q0 2.984,1.922 2.984q0.422 0,0.844-0.156q0.422-0.156,0.766-0.453v1q-0.375 0.203,-0.766 0.313q-0.391 0.094,-0.844 0.094Z"/>
+</symbol>
+<symbol id="glyph69" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.969 2.703h4.313v0.844h-3.328v2.156h3.188v0.828h-3.188v2.641h3.422v0.828h-4.406v-7.297Z"/>
+</symbol>
+<symbol id="glyph73" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.984 9.172h1.531v-5.625h-1.531v-0.844h4.047v0.844h-1.531v5.625h1.531v0.828h-4.047v-0.828Z"/>
+</symbol>
+<symbol id="glyph76" viewBox="0 0 6 13" width="6" height="13">
+<path d="M1.047 2.703h1v6.469h3.516v0.828h-4.516v-7.297Z"/>
+</symbol>
+<symbol id="glyph77" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.422 2.703h1.313l1.266 3.719l1.266-3.719h1.328v7.297h-0.922v-6.438l-1.297 3.844h-0.75l-1.297-3.844v6.438h-0.906v-7.297Z"/>
+</symbol>
+<symbol id="glyph78" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.672 2.703h1.25l2.469 6v-6h0.953v7.297h-1.25l-2.469-6v6h-0.953v-7.297Z"/>
+</symbol>
+<symbol id="glyph79" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.016 10.141q-1.25 0,-1.844-0.938q-0.594-0.922,-0.594-2.844q0-1.922,0.594-2.844q0.609-0.938,1.844-0.938q0.594 0,1.047 0.234q0.469 0.219,0.781 0.703q0.609 0.938,0.609 2.844q0 1.906,-0.609 2.844q-0.313 0.484,-0.781 0.719q-0.453 0.219,-1.047 0.219Zm0-0.797q0.75 0,1.078-0.688q0.328-0.672,0.328-2.297q0-1.625,-0.328-2.297q-0.328-0.688,-1.078-0.688q-0.75 0,-1.078 0.688q-0.328 0.703,-0.328 2.297q0 1.594,0.328 2.297q0.328 0.688,1.078 0.688Z"/>
+</symbol>
+<symbol id="glyph82" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.703 2.703h2.031q1.203 0,1.844 0.547q0.625 0.547,0.625 1.547q0 0.391,-0.094 0.688q-0.094 0.281,-0.297 0.516q-0.375 0.453,-1.094 0.563q0.391 0.094,0.641 0.359q0.141 0.141,0.297 0.406q0.156 0.25,0.375 0.672l0.984 2h-1.047l-0.875-1.844q-0.188-0.406,-0.359-0.656q-0.172-0.25,-0.313-0.359q-0.156-0.109,-0.359-0.156q-0.203-0.063,-0.438-0.063h-0.938v3.078h-0.984v-7.297Zm2.063 3.406q0.719 0,1.063-0.313q0.344-0.328,0.344-0.969q0-0.641,-0.375-0.969q-0.172-0.156,-0.438-0.25q-0.266-0.094,-0.625-0.094h-1.047v2.594h1.078Z"/>
+</symbol>
+<symbol id="glyph83" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.859 10.141q-0.531 0,-1.047-0.109q-0.516-0.109,-1.047-0.328v-1.047q0.563 0.344,1.078 0.516q0.484 0.172,1 0.172q0.734 0,1.156-0.328q0.422-0.344,0.422-0.969q0-0.516,-0.281-0.813q-0.156-0.156,-0.406-0.25q-0.234-0.109,-0.594-0.188l-0.531-0.125q-0.484-0.109,-0.859-0.281q-0.375-0.172,-0.609-0.422q-0.469-0.453,-0.469-1.234q0-1,0.672-1.578q0.313-0.281,0.75-0.422q0.438-0.156,0.984-0.156q0.422 0,0.891 0.094q0.219 0.047,0.469 0.125q0.25 0.063,0.5 0.156v1q-0.234-0.141,-0.453-0.25q-0.219-0.109,-0.438-0.172q-0.453-0.156,-0.906-0.156q-0.703 0,-1.109 0.328q-0.406 0.328,-0.406 0.906q0 0.25,0.063 0.422q0.078 0.156,0.203 0.281q0.281 0.266,0.984 0.422l0.531 0.125q1 0.234,1.484 0.75q0.469 0.5,0.469 1.391q0 0.547,-0.172 0.953q-0.172 0.391,-0.469 0.641q-0.641 0.547,-1.859 0.547Z"/>
+</symbol>
+<symbol id="glyph84" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.516 3.547h-2.281v-0.844h5.563v0.844h-2.281v6.453h-1v-6.453Z"/>
+</symbol>
+<symbol id="glyph86" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.281 2.703h1.016l1.719 6.469l1.703-6.469h1.031l-2.141 7.297h-1.203l-2.125-7.297Z"/>
+</symbol>
+<symbol id="glyph97" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.484 10.141q-0.797 0,-1.313-0.453q-0.5-0.453,-0.5-1.313q0-0.703,0.328-1.094q0.344-0.406,0.891-0.563q0.563-0.172,1.188-0.172h1.203v-0.141q0-0.703,-0.359-0.969q-0.344-0.281,-0.984-0.281q-0.5 0,-0.984 0.141q-0.469 0.141,-0.891 0.375v-0.891q0.453-0.172,0.906-0.266q0.469-0.109,0.938-0.109q0.5 0,0.953 0.141q0.469 0.125,0.797 0.438q0.344 0.297,0.453 0.813q0.078 0.359,0.078 1.078v1.125q0 0.453,0.047 1.016q0.047 0.547,0.234 0.984h-0.891q-0.094-0.188,-0.141-0.406q-0.047-0.219,-0.078-0.422q-0.281 0.484,-0.797 0.734q-0.516 0.234,-1.078 0.234Zm0.219-0.75q0.563 0,0.906-0.266q0.344-0.281,0.5-0.719q0.172-0.453,0.172-0.953v-0.203h-1.141q-0.375 0,-0.75 0.094q-0.359 0.078,-0.594 0.328q-0.234 0.234,-0.234 0.688q0 0.516,0.313 0.781q0.328 0.25,0.828 0.25Z"/>
+</symbol>
+<symbol id="glyph99" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.438 10.141q-0.859 0,-1.453-0.359q-0.578-0.375,-0.891-1.016q-0.297-0.656,-0.297-1.5q0-0.844,0.297-1.484q0.313-0.656,0.906-1.016q0.594-0.359,1.469-0.359q0.453 0,0.813 0.109q0.375 0.094,0.75 0.297v0.953q-0.344-0.313,-0.703-0.453q-0.344-0.156,-0.781-0.156q-0.672 0,-1.063 0.297q-0.391 0.281,-0.563 0.766q-0.172 0.469,-0.172 1.047q0 0.578,0.172 1.063q0.172 0.484,0.563 0.766q0.391 0.281,1.047 0.281q0.438 0,0.797-0.141q0.375-0.141,0.703-0.453v0.938q-0.703 0.422,-1.594 0.422Z"/>
+</symbol>
+<symbol id="glyph101" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.313 10.141q-1.266 0,-1.984-0.75q-0.719-0.766,-0.719-2.078q0-0.813,0.281-1.469q0.281-0.672,0.844-1.047q0.578-0.391,1.406-0.391q1.094 0,1.688 0.703q0.609 0.688,0.609 1.938v0.438h-3.891v0.031q0 0.844,0.438 1.359q0.453 0.5,1.344 0.5q0.5 0,0.969-0.156q0.484-0.156,0.922-0.391v0.891q-0.453 0.188,-0.938 0.297q-0.469 0.125,-0.969 0.125Zm1.219-3.359q0-0.453,-0.141-0.813q-0.125-0.375,-0.438-0.594q-0.297-0.219,-0.781-0.219q-0.5 0,-0.844 0.219q-0.328 0.219,-0.516 0.594q-0.188 0.359,-0.234 0.813h2.953Z"/>
+</symbol>
+<symbol id="glyph102" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.281 5.234h-1.469v-0.703h1.469v-0.375q0-0.906,0.406-1.328q0.406-0.422,1.281-0.422h1.078v0.75h-1.016q-0.469 0,-0.672 0.203q-0.188 0.188,-0.188 0.688v0.484h1.875v0.703h-1.875v4.766h-0.891v-4.766Z"/>
+</symbol>
+<symbol id="glyph104" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.953 2.406h0.891v2.938q0.5-0.938,1.625-0.938q0.672 0,1.031 0.313q0.359 0.313,0.484 0.813q0.141 0.5,0.141 1.078v3.391h-0.891v-3.391q0-0.734,-0.266-1.078q-0.25-0.344,-0.797-0.344q-0.516 0,-0.813 0.25q-0.281 0.25,-0.406 0.641q-0.109 0.391,-0.109 0.828v3.094h-0.891v-7.594Z"/>
+</symbol>
+<symbol id="glyph105" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.547 3.547q-0.141 0,-0.141-0.156v-0.844q0-0.141,0.141-0.141h0.703q0.156 0,0.156 0.141v0.844q0 0.156,-0.156 0.156h-0.703Zm1.641 6.5q-0.797 0,-1.25-0.516q-0.438-0.531,-0.438-1.469v-2.828h-1.188v-0.703h2.094v3.531q0 0.594,0.219 0.906q0.234 0.313,0.656 0.313h1.047v0.766h-1.141Z"/>
+</symbol>
+<symbol id="glyph107" viewBox="0 0 6 13" width="6" height="13">
+<path d="M1.109 2.406h0.922v4.391l2.359-2.266h1.094l-2.156 2.063l2.5 3.406h-1.109l-2.016-2.828l-0.672 0.641v2.188h-0.922v-7.594Z"/>
+</symbol>
+<symbol id="glyph108" viewBox="0 0 6 13" width="6" height="13">
+<path d="M4.016 10.047q-0.813 0,-1.266-0.516q-0.438-0.531,-0.438-1.469v-4.953h-1.438v-0.703h2.344v5.656q0 0.594,0.219 0.906q0.234 0.313,0.656 0.313h1.047v0.766h-1.125Z"/>
+</symbol>
+<symbol id="glyph110" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.953 4.531h0.813l0.078 0.813q0.5-0.938,1.609-0.938q1.672 0,1.672 2.203v3.391h-0.891v-3.391q0-0.734,-0.266-1.078q-0.25-0.344,-0.797-0.344q-0.625 0,-0.984 0.453q-0.344 0.438,-0.344 1.266v3.094h-0.891v-5.469Z"/>
+</symbol>
+<symbol id="glyph111" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.016 10.141q-1.141 0,-1.75-0.734q-0.594-0.75,-0.594-2.125q0-1.391,0.594-2.125q0.609-0.75,1.75-0.75q1.125 0,1.734 0.734q0.609 0.734,0.609 2.141q0 1.391,-0.609 2.125q-0.594 0.734,-1.734 0.734Zm0-0.766q0.672 0,1.031-0.547q0.359-0.547,0.359-1.563q0-1.016,-0.359-1.563q-0.359-0.547,-1.031-0.547q-0.672 0,-1.031 0.547q-0.359 0.547,-0.359 1.563q0 1.016,0.359 1.563q0.359 0.547,1.031 0.547Z"/>
+</symbol>
+<symbol id="glyph112" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.922 4.531h0.828l0.078 0.703q0.469-0.828,1.469-0.828q0.984 0,1.547 0.766q0.563 0.766,0.563 2.094q0 1.328,-0.578 2.109q-0.563 0.766,-1.531 0.766q-1.016 0,-1.469-0.828v2.766h-0.906v-7.547Zm2.266 4.844q1.281 0,1.281-2.109q0-2.109,-1.281-2.109q-0.656 0,-1.016 0.547q-0.344 0.547,-0.344 1.563q0 1.016,0.344 1.563q0.359 0.547,1.016 0.547Z"/>
+</symbol>
+<symbol id="glyph114" viewBox="0 0 6 13" width="6" height="13">
+<path d="M1.469 4.531h0.828l0.078 1.063q0.234-0.578,0.688-0.875q0.469-0.313,1.109-0.313q0.672 0,1.172 0.328v0.922q-0.531-0.422,-1.25-0.422q-0.828 0,-1.281 0.531q-0.438 0.516,-0.438 1.516v2.719h-0.906v-5.469Z"/>
+</symbol>
+<symbol id="glyph115" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.875 10.141q-0.781 0,-1.828-0.344v-0.922q1.016 0.516,1.813 0.516q0.578 0,0.922-0.234q0.344-0.25,0.344-0.641q0-0.359,-0.297-0.563q-0.281-0.219,-0.906-0.344l-0.375-0.078q-0.766-0.156,-1.125-0.516q-0.359-0.359,-0.359-0.984q0-0.781,0.531-1.203q0.547-0.422,1.531-0.422q0.844 0,1.625 0.313v0.875q-0.766-0.438,-1.594-0.438q-1.188 0,-1.188 0.797q0 0.266,0.094 0.422q0.109 0.156,0.391 0.266q0.297 0.094,0.859 0.203l0.359 0.078q1.359 0.266,1.359 1.469q0 0.813,-0.578 1.281q-0.578 0.469,-1.578 0.469Z"/>
+</symbol>
+<symbol id="glyph116" viewBox="0 0 6 13" width="6" height="13">
+<path d="M3.938 10.016q-1 0,-1.422-0.406q-0.422-0.406,-0.422-1.391v-2.984h-1.453v-0.703h1.453v-1.438l0.906-0.391v1.828h2.047v0.703h-2.047v2.984q0 0.594,0.219 0.844q0.234 0.234,0.813 0.234h1.016v0.719h-1.109Z"/>
+</symbol>
+<symbol id="glyph117" viewBox="0 0 6 13" width="6" height="13">
+<path d="M2.625 10.141q-1.672 0,-1.672-2.219v-3.375h0.891v3.375q0 1.438,1.078 1.438q0.625 0,0.969-0.453q0.344-0.453,0.344-1.281v-3.078h0.891v5.453h-0.813l-0.078-0.828q-0.5 0.969,-1.609 0.969Z"/>
+</symbol>
+<symbol id="glyph119" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0 4.531h0.891l0.953 4.422l0.781-2.828h0.766l0.797 2.828l0.938-4.422h0.891l-1.281 5.469h-0.859l-0.859-3l-0.875 3h-0.859l-1.281-5.469Z"/>
+</symbol>
+<symbol id="glyph121" viewBox="0 0 6 13" width="6" height="13">
+<path d="M0.906 11.328h0.531q0.391 0,0.609-0.219q0.234-0.25,0.578-1.203l-2.109-5.375h0.938l1.625 4.281l1.594-4.281h0.953l-1.438 3.703q-0.172 0.453,-0.297 0.781q-0.031 0.094,-0.063 0.156q-0.016 0.047,-0.047 0.141q-0.031 0.078,-0.109 0.281l-0.047 0.156q-0.203 0.531,-0.375 0.922q-0.156 0.406,-0.281 0.625q-0.438 0.781,-1.344 0.781h-0.719v-0.75Z"/>
+</symbol>
+</defs>
+<rect x="0" y="0" width="204" height="25" fill="transparent"/>
+<g opacity="0">
+<animate attributeName="opacity" id="line0" begin="500ms;line3.end" values="1;1;0" dur="10060ms" keyTimes="0;0.901;1"/>
+<animateTransform attributeName="transform" begin="line0.begin" type="translate" values="0 0;0 0;0 -13" dur="10060ms" keyTimes="0;0.901;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line0.begin" type="translate" values="0 0;0 0;0.333 0.6;0 0;0 0;0.333 0.8;0 0;0 0;0 1.2;0 0;0 0;0 0.8;0 0;0 0;-0.333 1;0 0;0 0;0 0.8;0 0;0 0;-0.333 1;0 0;0 0;0 0.6;0 0;0 0;0.667 1.2;0 0;0 0;0.333 1;0 0;0 0;-0.667 0.6;0 0;0 0;0.333 1.2;0 0;0 0;-0.667 1.2;0 0;0 0;0.333 0.8;0 0;0 0;-0.667 0.6;0 0;0 0;0.333 0.8;0 0;0 0;0 1.2;0 0;0 0;0 1.2;0 0;0 0;-0.333 0.6;0 0;0 0;0.333 0.6;0 0;0 0;-1.2 1.4;0 0;0 0" dur="10060ms" keyTimes="0;0;0;0.01;0.022;0.022;0.032;0.05;0.05;0.06;0.089;0.089;0.099;0.146;0.146;0.156;0.206;0.206;0.216;0.273;0.273;0.283;0.331;0.331;0.341;0.39;0.39;0.4;0.423;0.423;0.433;0.451;0.451;0.461;0.48;0.48;0.49;0.502;0.502;0.512;0.568;0.568;0.578;0.617;0.617;0.627;0.646;0.646;0.656;0.669;0.669;0.679;0.708;0.708;0.718;0.733;0.733;0.743;0.8;0.8;0.81;0.851;0.851;0.861;1"/>
+<use href="#glyph78" x="6" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0;0;0.099;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0;0;0.099;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0;0;0.099;1"/>
+</use>
+<use href="#glyph65" x="12" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.022;0.022;0.121;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.022;0.022;0.121;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.022;0.022;0.121;1"/>
+</use>
+<use href="#glyph77" x="18" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.05;0.05;0.149;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.05;0.05;0.149;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.05;0.05;0.149;1"/>
+</use>
+<use href="#glyph69" x="24" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.089;0.089;0.189;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.089;0.089;0.189;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.089;0.089;0.189;1"/>
+</use>
+<use href="#glyph32" x="30" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.146;0.146;0.246;1"/>
+<animate attributeName="opacity" begin="line0.begin" values="0;0;1;0;0" dur="10060ms" keyTimes="0;0.146;0.146;0.246;1"/>
+</use>
+<use href="#glyph61" x="36" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.206;0.206;0.305;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.206;0.206;0.305;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.206;0.206;0.305;1"/>
+</use>
+<use href="#glyph32" x="42" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.273;0.273;0.373;1"/>
+<animate attributeName="opacity" begin="line0.begin" values="0;0;1;0;0" dur="10060ms" keyTimes="0;0.273;0.273;0.373;1"/>
+</use>
+<use href="#glyph39" x="48" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.331;0.331;0.43;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.331;0.331;0.43;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.331;0.331;0.43;1"/>
+</use>
+<use href="#glyph112" x="54" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.39;0.39;0.489;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.39;0.39;0.489;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.39;0.39;0.489;1"/>
+</use>
+<use href="#glyph111" x="60" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.423;0.423;0.523;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.423;0.423;0.523;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.423;0.423;0.523;1"/>
+</use>
+<use href="#glyph119" x="66" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.451;0.451;0.551;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.451;0.451;0.551;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.451;0.451;0.551;1"/>
+</use>
+<use href="#glyph101" x="72" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.48;0.48;0.58;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.48;0.48;0.58;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.48;0.48;0.58;1"/>
+</use>
+<use href="#glyph114" x="78" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.502;0.502;0.601;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.502;0.502;0.601;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.502;0.502;0.601;1"/>
+</use>
+<use href="#glyph45" x="84" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.568;0.568;0.667;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.568;0.568;0.667;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.568;0.568;0.667;1"/>
+</use>
+<use href="#glyph104" x="90" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.617;0.617;0.717;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.617;0.617;0.717;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.617;0.617;0.717;1"/>
+</use>
+<use href="#glyph101" x="96" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.646;0.646;0.746;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.646;0.646;0.746;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.646;0.646;0.746;1"/>
+</use>
+<use href="#glyph108" x="102" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.669;0.669;0.768;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.669;0.669;0.768;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.669;0.669;0.768;1"/>
+</use>
+<use href="#glyph108" x="108" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.708;0.708;0.807;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.708;0.708;0.807;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.708;0.708;0.807;1"/>
+</use>
+<use href="#glyph111" x="114" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.733;0.733;0.832;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.733;0.733;0.832;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.733;0.733;0.832;1"/>
+</use>
+<use href="#glyph39" x="120" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.8;0.8;0.9;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.8;0.8;0.9;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="10060ms" keyTimes="0;0.8;0.8;0.9;1"/>
+</use>
+<use href="#glyph10" x="126" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line0.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10060ms" keyTimes="0;0.851;0.851;0.95;1"/>
+<animate attributeName="opacity" begin="line0.begin" values="0;0;1;0;0" dur="10060ms" keyTimes="0;0.851;0.851;0.95;1"/>
+</use>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" id="line1" begin="line0.end" values="1;1;0" dur="10300ms" keyTimes="0;0.903;1"/>
+<animateTransform attributeName="transform" begin="line1.begin" type="translate" values="0 0;0 0;0 -13" dur="10300ms" keyTimes="0;0.903;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line1.begin" type="translate" values="0 0;0 0;-0.333 1;0 0;0 0;0 0.8;0 0;0 0;-0.667 0.8;0 0;0 0;0 0.8;0 0;0 0;0 0.8;0 0;0 0;-0.333 1.2;0 0;0 0;0.667 0.6;0 0;0 0;0.333 0.6;0 0;0 0;0 0.8;0 0;0 0;0.333 1.2;0 0;0 0;0 0.6;0 0;0 0;0.333 0.8;0 0;0 0;-0.667 0.8;0 0;0 0;0 1.2;0 0;0 0;-0.333 1;0 0;0 0;0 1.2;0 0;0 0;-0.333 0.6;0 0;0 0;-1.2 1.4;0 0;0 0" dur="10300ms" keyTimes="0;0;0;0.01;0.03;0.03;0.04;0.064;0.064;0.074;0.091;0.091;0.101;0.123;0.123;0.133;0.159;0.159;0.169;0.189;0.189;0.199;0.257;0.257;0.267;0.32;0.32;0.33;0.387;0.387;0.397;0.45;0.45;0.459;0.504;0.504;0.514;0.563;0.563;0.573;0.614;0.614;0.623;0.68;0.68;0.689;0.747;0.747;0.756;0.803;0.803;0.813;0.854;0.854;0.864;1"/>
+<use href="#glyph86" x="6" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0;0;0.097;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0;0;0.097;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0;0;0.097;1"/>
+</use>
+<use href="#glyph69" x="12" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.03;0.03;0.127;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.03;0.03;0.127;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.03;0.03;0.127;1"/>
+</use>
+<use href="#glyph82" x="18" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.064;0.064;0.161;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.064;0.064;0.161;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.064;0.064;0.161;1"/>
+</use>
+<use href="#glyph83" x="24" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.091;0.091;0.188;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.091;0.091;0.188;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.091;0.091;0.188;1"/>
+</use>
+<use href="#glyph73" x="30" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.123;0.123;0.22;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.123;0.123;0.22;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.123;0.123;0.22;1"/>
+</use>
+<use href="#glyph79" x="36" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.159;0.159;0.256;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.159;0.159;0.256;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.159;0.159;0.256;1"/>
+</use>
+<use href="#glyph78" x="42" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.189;0.189;0.286;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.189;0.189;0.286;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.189;0.189;0.286;1"/>
+</use>
+<use href="#glyph32" x="48" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.257;0.257;0.354;1"/>
+<animate attributeName="opacity" begin="line1.begin" values="0;0;1;0;0" dur="10300ms" keyTimes="0;0.257;0.257;0.354;1"/>
+</use>
+<use href="#glyph61" x="54" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.32;0.32;0.417;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.32;0.32;0.417;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.32;0.32;0.417;1"/>
+</use>
+<use href="#glyph32" x="60" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.387;0.387;0.484;1"/>
+<animate attributeName="opacity" begin="line1.begin" values="0;0;1;0;0" dur="10300ms" keyTimes="0;0.387;0.387;0.484;1"/>
+</use>
+<use href="#glyph39" x="66" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.45;0.45;0.547;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.45;0.45;0.547;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.45;0.45;0.547;1"/>
+</use>
+<use href="#glyph48" x="72" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.504;0.504;0.601;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.504;0.504;0.601;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.504;0.504;0.601;1"/>
+</use>
+<use href="#glyph46" x="78" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.563;0.563;0.66;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.563;0.563;0.66;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.563;0.563;0.66;1"/>
+</use>
+<use href="#glyph49" x="84" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.614;0.614;0.711;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.614;0.614;0.711;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.614;0.614;0.711;1"/>
+</use>
+<use href="#glyph46" x="90" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.68;0.68;0.777;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.68;0.68;0.777;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.68;0.68;0.777;1"/>
+</use>
+<use href="#glyph48" x="96" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.747;0.747;0.844;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.747;0.747;0.844;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.747;0.747;0.844;1"/>
+</use>
+<use href="#glyph39" x="102" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.803;0.803;0.9;1"/>
+<animate attributeName="stroke" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.803;0.803;0.9;1"/>
+<animate attributeName="stroke-width" begin="line1.begin" values="0;0;0.7;0;0" dur="10300ms" keyTimes="0;0.803;0.803;0.9;1"/>
+</use>
+<use href="#glyph10" x="108" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line1.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="10300ms" keyTimes="0;0.854;0.854;0.951;1"/>
+<animate attributeName="opacity" begin="line1.begin" values="0;0;1;0;0" dur="10300ms" keyTimes="0;0.854;0.854;0.951;1"/>
+</use>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" id="line2" begin="line1.end" values="1;1;0" dur="11120ms" keyTimes="0;0.91;1"/>
+<animateTransform attributeName="transform" begin="line2.begin" type="translate" values="0 0;0 0;0 -13" dur="11120ms" keyTimes="0;0.91;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line2.begin" type="translate" values="0 0;0 0;0 0.6;0 0;0 0;0 0.6;0 0;0 0;-0.333 1;0 0;0 0;-0.667 1;0 0;0 0;0.333 1;0 0;0 0;-0.667 1;0 0;0 0;-0.333 1;0 0;0 0;0.333 1;0 0;0 0;-0.667 0.8;0 0;0 0;0.333 1.2;0 0;0 0;0 1.2;0 0;0 0;-0.333 0.6;0 0;0 0;-0.333 1;0 0;0 0;0 0.6;0 0;0 0;0.333 0.6;0 0;0 0;0.333 1;0 0;0 0;0 0.6;0 0;0 0;0 1;0 0;0 0;0.333 0.8;0 0;0 0;0 1;0 0;0 0;-0.667 0.6;0 0;0 0;-0.333 0.8;0 0;0 0;0 0.8;0 0;0 0;-1.2 1.4;0 0;0 0" dur="11120ms" keyTimes="0;0;0;0.009;0.022;0.022;0.031;0.053;0.053;0.062;0.072;0.072;0.081;0.104;0.104;0.113;0.134;0.134;0.143;0.165;0.165;0.174;0.227;0.227;0.236;0.276;0.276;0.285;0.328;0.328;0.337;0.378;0.378;0.387;0.424;0.424;0.433;0.45;0.45;0.459;0.479;0.479;0.488;0.535;0.535;0.544;0.585;0.585;0.594;0.621;0.621;0.629;0.648;0.648;0.657;0.679;0.679;0.688;0.7;0.7;0.709;0.724;0.724;0.733;0.76;0.76;0.769;0.819;0.819;0.828;0.865;0.865;0.874;1"/>
+<use href="#glyph76" x="6" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0;0;0.09;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0;0;0.09;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0;0;0.09;1"/>
+</use>
+<use href="#glyph73" x="12" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.022;0.022;0.112;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.022;0.022;0.112;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.022;0.022;0.112;1"/>
+</use>
+<use href="#glyph67" x="18" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.053;0.053;0.143;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.053;0.053;0.143;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.053;0.053;0.143;1"/>
+</use>
+<use href="#glyph69" x="24" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.072;0.072;0.162;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.072;0.072;0.162;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.072;0.072;0.162;1"/>
+</use>
+<use href="#glyph78" x="30" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.104;0.104;0.194;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.104;0.104;0.194;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.104;0.104;0.194;1"/>
+</use>
+<use href="#glyph83" x="36" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.134;0.134;0.224;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.134;0.134;0.224;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.134;0.134;0.224;1"/>
+</use>
+<use href="#glyph69" x="42" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.165;0.165;0.254;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.165;0.165;0.254;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.165;0.165;0.254;1"/>
+</use>
+<use href="#glyph32" x="48" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.227;0.227;0.317;1"/>
+<animate attributeName="opacity" begin="line2.begin" values="0;0;1;0;0" dur="11120ms" keyTimes="0;0.227;0.227;0.317;1"/>
+</use>
+<use href="#glyph61" x="54" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.276;0.276;0.366;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.276;0.276;0.366;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.276;0.276;0.366;1"/>
+</use>
+<use href="#glyph32" x="60" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.328;0.328;0.418;1"/>
+<animate attributeName="opacity" begin="line2.begin" values="0;0;1;0;0" dur="11120ms" keyTimes="0;0.328;0.328;0.418;1"/>
+</use>
+<use href="#glyph39" x="66" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.378;0.378;0.468;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.378;0.378;0.468;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.378;0.378;0.468;1"/>
+</use>
+<use href="#glyph77" x="72" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.424;0.424;0.513;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.424;0.424;0.513;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.424;0.424;0.513;1"/>
+</use>
+<use href="#glyph73" x="78" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.45;0.45;0.54;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.45;0.45;0.54;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.45;0.45;0.54;1"/>
+</use>
+<use href="#glyph84" x="84" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.479;0.479;0.569;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.479;0.479;0.569;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.479;0.479;0.569;1"/>
+</use>
+<use href="#glyph32" x="90" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.535;0.535;0.625;1"/>
+<animate attributeName="opacity" begin="line2.begin" values="0;0;1;0;0" dur="11120ms" keyTimes="0;0.535;0.535;0.625;1"/>
+</use>
+<use href="#glyph76" x="96" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.585;0.585;0.674;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.585;0.585;0.674;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.585;0.585;0.674;1"/>
+</use>
+<use href="#glyph105" x="102" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.621;0.621;0.71;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.621;0.621;0.71;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.621;0.621;0.71;1"/>
+</use>
+<use href="#glyph99" x="108" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.648;0.648;0.738;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.648;0.648;0.738;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.648;0.648;0.738;1"/>
+</use>
+<use href="#glyph101" x="114" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.679;0.679;0.769;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.679;0.679;0.769;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.679;0.679;0.769;1"/>
+</use>
+<use href="#glyph110" x="120" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.7;0.7;0.79;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.7;0.7;0.79;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.7;0.7;0.79;1"/>
+</use>
+<use href="#glyph115" x="126" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.724;0.724;0.814;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.724;0.724;0.814;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.724;0.724;0.814;1"/>
+</use>
+<use href="#glyph101" x="132" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.76;0.76;0.85;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.76;0.76;0.85;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.76;0.76;0.85;1"/>
+</use>
+<use href="#glyph39" x="138" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.819;0.819;0.909;1"/>
+<animate attributeName="stroke" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.819;0.819;0.909;1"/>
+<animate attributeName="stroke-width" begin="line2.begin" values="0;0;0.7;0;0" dur="11120ms" keyTimes="0;0.819;0.819;0.909;1"/>
+</use>
+<use href="#glyph10" x="144" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line2.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="11120ms" keyTimes="0;0.865;0.865;0.955;1"/>
+<animate attributeName="opacity" begin="line2.begin" values="0;0;1;0;0" dur="11120ms" keyTimes="0;0.865;0.865;0.955;1"/>
+</use>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" id="line3" begin="line2.end" values="1;1;0" dur="14980ms" keyTimes="0;0.933;1"/>
+<animateTransform attributeName="transform" begin="line3.begin" type="translate" values="0 0;0 0;0 -13" dur="14980ms" keyTimes="0;0.933;1"/>
+<g>
+<animateTransform attributeName="transform" begin="line3.begin" type="translate" values="0 0;0 0;0.333 0.8;0 0;0 0;0.333 0.8;0 0;0 0;0 1;0 0;0 0;-0.333 0.6;0 0;0 0;-0.333 0.6;0 0;0 0;-0.667 1;0 0;0 0;-0.333 1.2;0 0;0 0;0 0.6;0 0;0 0;-0.333 0.8;0 0;0 0;0.333 1;0 0;0 0;0 0.8;0 0;0 0;-0.667 0.6;0 0;0 0;0.333 1.2;0 0;0 0;0 1;0 0;0 0;-0.667 1.2;0 0;0 0;-0.333 0.8;0 0;0 0;0.333 0.8;0 0;0 0;0.333 1.2;0 0;0 0;-0.333 1.2;0 0;0 0;0.333 0.8;0 0;0 0;-0.333 1.2;0 0;0 0;-0.333 1.2;0 0;0 0;0.333 1.2;0 0;0 0;-0.667 0.6;0 0;0 0;0.333 0.6;0 0;0 0;-0.667 0.6;0 0;0 0;0 0.6;0 0;0 0;0.333 0.6;0 0;0 0;0.667 0.8;0 0;0 0;0 0.8;0 0;0 0;0 0.8;0 0;0 0;-1.2 1.4;0 0;0 0" dur="14980ms" keyTimes="0;0;0;0.007;0.019;0.019;0.025;0.055;0.055;0.062;0.094;0.094;0.101;0.128;0.128;0.134;0.152;0.152;0.158;0.169;0.169;0.176;0.206;0.206;0.212;0.243;0.243;0.25;0.261;0.261;0.268;0.278;0.278;0.284;0.294;0.294;0.3;0.332;0.332;0.338;0.37;0.37;0.377;0.389;0.389;0.395;0.424;0.424;0.431;0.459;0.459;0.466;0.493;0.493;0.499;0.507;0.507;0.514;0.527;0.527;0.533;0.553;0.553;0.559;0.573;0.573;0.579;0.594;0.594;0.601;0.634;0.634;0.641;0.674;0.674;0.681;0.712;0.712;0.719;0.751;0.751;0.758;0.798;0.798;0.804;0.818;0.818;0.825;0.844;0.844;0.85;0.864;0.864;0.871;0.9;0.9;0.907;1"/>
+<use href="#glyph105" x="6" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0;0;0.067;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0;0;0.067;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0;0;0.067;1"/>
+</use>
+<use href="#glyph102" x="12" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.019;0.019;0.085;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.019;0.019;0.085;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.019;0.019;0.085;1"/>
+</use>
+<use href="#glyph32" x="18" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.055;0.055;0.122;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="14980ms" keyTimes="0;0.055;0.055;0.122;1"/>
+</use>
+<use href="#glyph40" x="24" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.094;0.094;0.161;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.094;0.094;0.161;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.094;0.094;0.161;1"/>
+</use>
+<use href="#glyph121" x="30" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.128;0.128;0.194;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.128;0.128;0.194;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.128;0.128;0.194;1"/>
+</use>
+<use href="#glyph111" x="36" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.152;0.152;0.218;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.152;0.152;0.218;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.152;0.152;0.218;1"/>
+</use>
+<use href="#glyph117" x="42" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.169;0.169;0.236;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.169;0.169;0.236;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.169;0.169;0.236;1"/>
+</use>
+<use href="#glyph32" x="48" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.206;0.206;0.272;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="14980ms" keyTimes="0;0.206;0.206;0.272;1"/>
+</use>
+<use href="#glyph108" x="54" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.243;0.243;0.31;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.243;0.243;0.31;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.243;0.243;0.31;1"/>
+</use>
+<use href="#glyph105" x="60" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.261;0.261;0.328;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.261;0.261;0.328;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.261;0.261;0.328;1"/>
+</use>
+<use href="#glyph107" x="66" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.278;0.278;0.344;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.278;0.278;0.344;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.278;0.278;0.344;1"/>
+</use>
+<use href="#glyph101" x="72" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.294;0.294;0.36;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.294;0.294;0.36;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.294;0.294;0.36;1"/>
+</use>
+<use href="#glyph32" x="78" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.332;0.332;0.399;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="14980ms" keyTimes="0;0.332;0.332;0.399;1"/>
+</use>
+<use href="#glyph105" x="84" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.37;0.37;0.437;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.37;0.37;0.437;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.37;0.37;0.437;1"/>
+</use>
+<use href="#glyph116" x="90" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.389;0.389;0.455;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.389;0.389;0.455;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.389;0.389;0.455;1"/>
+</use>
+<use href="#glyph41" x="96" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.424;0.424;0.491;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.424;0.424;0.491;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.424;0.424;0.491;1"/>
+</use>
+<use href="#glyph32" x="102" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.459;0.459;0.526;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="14980ms" keyTimes="0;0.459;0.459;0.526;1"/>
+</use>
+<use href="#glyph102" x="108" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.493;0.493;0.559;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.493;0.493;0.559;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.493;0.493;0.559;1"/>
+</use>
+<use href="#glyph111" x="114" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.507;0.507;0.574;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.507;0.507;0.574;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.507;0.507;0.574;1"/>
+</use>
+<use href="#glyph108" x="120" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.527;0.527;0.593;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.527;0.527;0.593;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.527;0.527;0.593;1"/>
+</use>
+<use href="#glyph108" x="126" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.553;0.553;0.619;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.553;0.553;0.619;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.553;0.553;0.619;1"/>
+</use>
+<use href="#glyph111" x="132" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.573;0.573;0.64;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.573;0.573;0.64;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.573;0.573;0.64;1"/>
+</use>
+<use href="#glyph119" x="138" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.594;0.594;0.661;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.594;0.594;0.661;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.594;0.594;0.661;1"/>
+</use>
+<use href="#glyph32" x="144" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.634;0.634;0.701;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="14980ms" keyTimes="0;0.634;0.634;0.701;1"/>
+</use>
+<use href="#glyph38" x="150" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.674;0.674;0.741;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.674;0.674;0.741;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.674;0.674;0.741;1"/>
+</use>
+<use href="#glyph38" x="156" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.712;0.712;0.779;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.712;0.712;0.779;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.712;0.712;0.779;1"/>
+</use>
+<use href="#glyph32" x="162" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.751;0.751;0.818;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="14980ms" keyTimes="0;0.751;0.751;0.818;1"/>
+</use>
+<use href="#glyph115" x="168" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.798;0.798;0.864;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.798;0.798;0.864;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.798;0.798;0.864;1"/>
+</use>
+<use href="#glyph116" x="174" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.818;0.818;0.885;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.818;0.818;0.885;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.818;0.818;0.885;1"/>
+</use>
+<use href="#glyph97" x="180" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.844;0.844;0.911;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.844;0.844;0.911;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.844;0.844;0.911;1"/>
+</use>
+<use href="#glyph114" x="186" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.864;0.864;0.931;1"/>
+<animate attributeName="stroke" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.864;0.864;0.931;1"/>
+<animate attributeName="stroke-width" begin="line3.begin" values="0;0;0.7;0;0" dur="14980ms" keyTimes="0;0.864;0.864;0.931;1"/>
+</use>
+<use href="#glyph10" x="192" y="6" fill="hsl(217,68%,37%)">
+<animate attributeName="fill" begin="line3.begin" values="transparent;transparent;rgb(0,123,187);hsl(217,68%,37%);hsl(217,68%,37%)" dur="14980ms" keyTimes="0;0.9;0.9;0.967;1"/>
+<animate attributeName="opacity" begin="line3.begin" values="0;0;1;0;0" dur="14980ms" keyTimes="0;0.9;0.9;0.967;1"/>
+</use>
+</g>
+</g>
+</svg>
