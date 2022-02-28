@@ -11,8 +11,7 @@ import re
 import sys
 from typing import Dict, List, NamedTuple, Set
 
-# from . import glyph_data
-import glyph_data
+from . import glyph_data
 
 # for setup.py
 NAME = "power-hello"
